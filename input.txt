@@ -1,0 +1,13 @@
+Abramovo Konechnaya
+Abramovo Borisovo 10.5
+Abramovo Caburovo 15.5
+Borisovo Dedovsk 35.5
+Borisovo Evstafievo 20.0
+Caburovo Fedorovo 25.0
+Caburovo Gagarin 30.0
+Evstafievo Haritonovo 40.0
+Fedorovo Haritonovo 15.0
+Fedorovo Istra 20.0
+Gagarin Istra 15.0
+Haritonovo Konechnaya 25.0
+Istra Konechnaya 20.0
